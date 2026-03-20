@@ -34,10 +34,12 @@ header {
   gap: 20px;
 }
 button{
+    padding: 10px;
     border: 2px solid rgb(255, 224, 69);
     color: rgb(255, 224, 69);
     background-color: rgb(41, 40, 40);
     width:100px;
+    border-radius: 5px;
 }
 .about{
     width: 100vw;
